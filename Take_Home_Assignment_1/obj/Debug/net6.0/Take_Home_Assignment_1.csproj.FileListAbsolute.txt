@@ -1,0 +1,14 @@
+D:\Monika's Pojects\Take_Home_Assignment_1\bin\Debug\net6.0\Take_Home_Assignment_1.exe
+D:\Monika's Pojects\Take_Home_Assignment_1\bin\Debug\net6.0\Take_Home_Assignment_1.deps.json
+D:\Monika's Pojects\Take_Home_Assignment_1\bin\Debug\net6.0\Take_Home_Assignment_1.runtimeconfig.json
+D:\Monika's Pojects\Take_Home_Assignment_1\bin\Debug\net6.0\Take_Home_Assignment_1.dll
+D:\Monika's Pojects\Take_Home_Assignment_1\bin\Debug\net6.0\Take_Home_Assignment_1.pdb
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.AssemblyInfoInputs.cache
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.AssemblyInfo.cs
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.csproj.CoreCompileInputs.cache
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.dll
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\refint\Take_Home_Assignment_1.dll
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.pdb
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\Take_Home_Assignment_1.genruntimeconfig.cache
+D:\Monika's Pojects\Take_Home_Assignment_1\obj\Debug\net6.0\ref\Take_Home_Assignment_1.dll
